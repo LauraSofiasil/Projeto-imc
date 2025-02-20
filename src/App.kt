@@ -1,5 +1,3 @@
-package br.senai.sp.jandira.imc.model
-
 import br.senai.sp.jandira.imc.model.Consulta
 import br.senai.sp.jandira.imc.model.Medico
 import br.senai.sp.jandira.imc.model.Paciente
